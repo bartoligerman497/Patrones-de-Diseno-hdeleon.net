@@ -1,0 +1,15 @@
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\bin\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.exe
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\bin\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.deps.json
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\bin\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.runtimeconfig.json
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\bin\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.dll
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\bin\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.pdb
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.csproj.AssemblyReference.cache
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.AssemblyInfoInputs.cache
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.AssemblyInfo.cs
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.csproj.CoreCompileInputs.cache
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.dll
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\refint\Patrones-de-Diseno-hdeleon.net.dll
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.pdb
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\Patrones-de-Diseno-hdeleon.net.genruntimeconfig.cache
+C:\Users\German\Documents\GitHub\Patrones-de-Diseno-hdeleon.net\Patrones-de-Diseno-hdeleon.net\obj\Debug\net6.0\ref\Patrones-de-Diseno-hdeleon.net.dll
