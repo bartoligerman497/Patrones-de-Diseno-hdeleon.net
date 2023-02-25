@@ -80,7 +80,7 @@ Bebida oBebidaCoca = Creador.CreadorBebida(Creador.coca);
 Console.WriteLine(oBebidaCoca.EvaporacionPorHora());
 */
 
-
+/*
 // Clase 5/10
 // Patrón de Diseño: Strategy. organiza el comportamiento que va a tener un objeto, el comportamiento cambia dinamicamente en tiempo de ejecución
 
@@ -99,3 +99,47 @@ EstrategiasTrabajarContexto oPersona = new EstrategiasTrabajarContexto();
 
 oPersona.Trabajar(EstrategiasTrabajarContexto.Comportamiento.TrabajarMucho);
 oPersona.Trabajar(EstrategiasTrabajarContexto.Comportamiento.TrabajarDuro);
+*/
+
+/*
+// Clase 6/10
+// Patrón de Diseño Mediator. De comportamiento de Objeto, es una interfaz que contiene todos los metodos para la comunicación entre los objetos
+
+Mediator mediator = new Mediator();
+
+IColleague oUser = new User(mediator);
+
+IColleague oUserAdmin = new UserAdmin(mediator);
+
+mediator.Add(oUser);
+mediator.Add(oUserAdmin);
+
+oUser.Communicate("Oye admin tengo un problema");
+*/
+
+// Clase 7/10
+// Patrón de Diseño State. Es de Comportamiento, sirve para manejar el comportamiento de nuestro modelo de negocio, solucionar un comportamiento de un problema, viene a representar la abstracción de un estado de un objeto. Respondo dependiendo mi estado.
+
+// Simular solicitudes
+
+ServidorContext oServidor = new ServidorContext();
+oServidor.State = new ServerStateDisponible();
+
+oServidor.AtenderSolicitud();
+
+oServidor.State = new ServerStateSaturado();
+oServidor.AtenderSolicitud();
+oServidor.AtenderSolicitud();
+
+oServidor.State = new ServerStateSaturado;
+oServidor.AtenderSolicitud();
+oServidor.AtenderSolicitud();
+
+oServidor.State = new ServerStateCaido;
+oServidor.AtenderSolicitud();
+oServidor.AtenderSolicitud();
+
+oServidor.State = new ServerStateDisponible;
+oServidor.AtenderSolicitud();
+oServidor.AtenderSolicitud();
+
